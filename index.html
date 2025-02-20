@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PL Treasurers Limited | Premium Gemstones</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="logo-container">
+                <a href="index.html">
+                    <img src="images/logo/PLT_LOGO.png" alt="PL Treasures Logo" class="company-logo">
+                    <span class="logo-text">PL Treasurers Limited</span>
+                </a>
+            </div>
+            
+            <button class="menu-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <ul class="nav-menu">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="trainings.html">Trainings</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Discover Malawi's Rare & Precious Gemstones With PL Treasurers</h1>
+            <p><i>Curated collection of the finest natural gemstones</i></p>
+            <a href="#collection" class="cta-button">View Collection</a>
+        </div>
+    </section>
+
+    <section id="collection" class="collection">
+        <h2>Our Collection</h2>
+        <style>
+            .collection h2{ 
+                text-align: center;
+            margin-bottom: 2rem;
+            color: var(--secondary-color);
+            background-color: var(--primary-color);
+            padding: 1rem;
+            border-radius: 30px}
+        </style>
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">All</button>
+            
+            <button class="filter-btn" data-filter="rutile amethyst">rutile amethyst</button>
+            <button class="filter-btn" data-filter="red garnet">red Garnet</button>
+            <button class="filter-btn" data-filter="rhodolite">Rhodolite</button>
+        </div>
+        <div class="gemstone-grid">
+            <!-- Gemstone items are populated by JavaScript -->
+        </div>
+    </section><br>
+    
+
+   <!-- <section id="youtube-section" class="youtube-section">
+        <h2>Watch Our Latest Videos</h2>
+    </section><br> -->
+
+    <section id="contact" class="contact">
+        <h2>Get In Touch</h2>
+        <style>
+            .contact h2{ 
+                text-align: center;
+            margin-bottom: 2rem;
+            color: var(--secondary-color);
+            background-color: var(--primary-color);
+            padding: 1rem;
+            border-radius: 30px}
+        </style>
+        <div class="contact-container">
+            <form method="POST" action="https://api.web3forms.com/submit">
+                <input type="hidden" name="access_key" value="480b7ea3-677c-42c9-815f-7e33f9d78217">
+                
+                <div class="form-group">
+                    <input type="text" name="name" required placeholder="Your Name">
+                </div>
+                
+                <div class="form-group">
+                    <input type="email" name="email" required placeholder="Your Email">
+                </div>
+                
+                <div class="form-group">
+                    <textarea id="message" name="message" required placeholder="Your Message"></textarea>
+                </div>
+
+                <div class="h-captcha" data-captcha="true"></div>
+                <!-- Honeypot field to prevent spam -->
+                <input type="checkbox" name="botcheck" style="display: none !important;">
+                
+                <button type="submit" class="submit-btn">Send Message</button>
+            </form>
+        </div>
+    </section><br>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Contact Us</h3>
+                <div class="contact-info">
+                    <p><i class="fas fa-map-marker-alt"></i> Location:</p>
+                    <p class="indent">Area 49, New Gulliver</p>
+                    <p class="indent">1st Street, Kachere</p>
+                    <p class="indent">3rd House, Left</p>
+                    <p class="indent">P.O Box 2132</p>
+                    <p class="indent">Lilongwe, Malawi</p>
+                    
+                    <p><i class="fas fa-phone"></i> Phone:</p>
+                    <p class="indent"><a href="tel:+265 998 129 832">+265 998 129 832</a></p>
+                    <p class="indent"><a href="tel:+265 881 355 000">+265 881 355 000</a></p>
+                    <p class="indent"><a href="tel:+265 991 202 196">+265 991 202 196</a></p>
+                    <p class="indent"><a href="tel:+265 998 688 101">+265 998 688 101</a></p>
+                    
+                    <p><i class="fas fa-envelope"></i> Email:</p>
+                    <p class="indent"><a href="mailto:pltreasurers@gmail.com">pltreasurers@gmail.com</a></p>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#collection">Our Collection</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="trainings.html">Trainings</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Frequently Asked Questions</h3>
+                <ul>
+                    <li>
+                        <p><strong>What is the quality of the gemstones?</strong></p>
+                        <p>We source the finest quality gemstones directly from the mines in Malawi. We guarantee the authenticity and quality of the gemstones.</p>
+                    </li>
+                    <li>
+                        <p><strong>How do I know the gemstone I am buying is genuine?</strong></p>
+                        <p>We provide a certificate of authenticity with every gemstone purchase.</p>
+                    </li>
+                    <li>
+                        <p><strong>What is the return policy?</strong></p>
+                        <p>We have a 30-day return policy. If for any reason you are not satisfied with your purchase, you may return it within 30 days for a full refund.</p>
+                    </li>
+                    <li>
+                        <p><strong>How do I care for my gemstone?</strong> </p>
+                        <p>We provide detailed care instructions with every purchase.</p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer-section">
+                <h3>Connect With Us</h3>
+                <div class="social-links">
+                    <a href="https://www.facebook.com/profile.php?id=61569179618987&mibextid=ZbWKwL"><i class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/pl_treasures_limited/profilecard/?igsh=ZmhoNGdtdGh4ZjBh"><i class="fab fa-instagram"></i></a>
+                    <a href="https://x.com/pltreasurers?t=Dn-jUqgJCBJAdP3avuPiEg&s=09"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.youtube.com/@PL_TREASURERSLIMITED"><i class="fab fa-youtube"></i></a>
+                    <a href="https://pin.it/2BJg3c8R7"><i class="fab fa-pinterest"></i></a>
+                    <a href="https://www.tiktok.com/@pl_treasures_limited?_t=8s2OWMKTTvi&_r=1"><i class="fab fa-tiktok"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 PL Treasures Limited. All rights reserved.</p>
+            <p><i>~Malawi has enough gems for everyone in the world~</i></p>
+        </div>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>
