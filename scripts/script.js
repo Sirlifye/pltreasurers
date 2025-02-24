@@ -18,7 +18,7 @@ const gemstones = [
         category: "rutile amethyst",
         status: "available",
         dimensions: "24.00 x 9.00 (mm)",
-        weight: "undifined",
+        weight: "4.1",
         cut: "Rough (Natural)",
         Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/Rutile Amethyst 2.jpg",
@@ -30,7 +30,7 @@ const gemstones = [
         category: "rutile amethyst",
         status: "available",
         dimensions: "29.90 x 21.90 (mm)",
-        weight: "undifined",
+        weight: "8.32",
         cut: "Rough (Natural)",
         Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/Rutile Amethyst 4.jpg",
@@ -42,7 +42,7 @@ const gemstones = [
         category: "rutile amethyst",
         status: "Available",
         dimensions: "25.50 x 12.00 (mm)",
-        weight: "undifined",
+        weight: "26.48",
         cut: "Rough (Natural)",
         Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/Rutile Amethyst.jpg",
@@ -66,7 +66,7 @@ const gemstones = [
         category: "rutile amethyst",
         status: "available",
         dimensions: "41.00 x 20.00 (mm)",
-        weight: "undifined",
+        weight: "28.45",
         cut: "Rough (Natural)",
         Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/Rutile Amethyst 3.jpg",
@@ -90,7 +90,7 @@ const gemstones = [
         category: "rutile amethyst",
         status: "available",
         dimensions: "29.00 x 8.50 (mm)",
-        weight: "undifined",
+        weight: "5.94",
         cut: "Rough (Natural)",
         Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/rutile.jpg",
@@ -126,7 +126,7 @@ const gemstones = [
         category: "rutile amethyst",
         status: "available",
         dimensions: "21.50 x 9.50 (mm)",
-        weight: "undifined",
+        weight: "5.30",
         cut: "Rough (Natural)",
         Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/rutile new.jpg",
@@ -167,7 +167,7 @@ function displayGemstones(category) {
             <div class="gemstone-info">
                 <h3>${stone.name}</h3>
                 <p> Dimensions: ${stone.dimensions}</p>
-                <p>Weight: ${stone.weight} g</p>
+                <p>Weight: ${stone.weight} Grams</p>
                 <p> Cut: ${stone.cut}</p>
                 <p>Origin: ${stone.Origin}</p>
                 <p>${stone.description}</p>
