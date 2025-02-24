@@ -86,9 +86,9 @@
 
 .training-image img {
     width: 100%;
-    height: auto;
+    height: 100%;
     object-fit: cover;
-    border-radius: 8px;
+    border-radius: 2px;
     transition: transform 0.3s ease;
 }
 
