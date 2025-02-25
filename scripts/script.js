@@ -6,7 +6,7 @@ const gemstones = [
         category: "red garnet",
         status: "available",
         dimensions: "9.0. x 5 x 5.5 (mm)",
-        weight: "undifined",
+        weight: "N/A",
         cut: "Cushion",
         Origin: "Malawi",
         image: "images/Collection/Red Garnet 3.jpg",
@@ -50,11 +50,11 @@ const gemstones = [
     },
     {
         id: 5,
-        name: "Stunning Red Garnet",
+        name: "Red Garnet",
         category: "red garnet",
         status: "available",
         dimensions: "10.50 x 10.50 x 6.50(mm)",
-        weight: "undifined",
+        weight: "N/A",
         cut: "Hexagonal",
         Origin: "Nanthenje,Malawi",
         image: "images/Collection/Stunning Red Garnet.jpg",
@@ -78,7 +78,7 @@ const gemstones = [
         category: "red garnet",
         status: "available",
         dimensions: "11.00 x 11.00 X 6.00 (mm)",
-        weight: "undifined",
+        weight: "N/A",
         cut: "Cushion",
         Origin: "Nanthenje, Malawi",
         image: "images/Collection/Stunning Red Garnet 2.jpg",
@@ -102,7 +102,7 @@ const gemstones = [
         category: "rhodolite",
         status: "available",
         dimensions: "9.5 x 5.5 X 4.0 (mm)",
-        weight: "undifined",
+        weight: "N/A",
         cut: "Rectangular",
         Origin: "Malawi",
         image: "images/Collection/Rhodolite.jpg",
@@ -114,7 +114,7 @@ const gemstones = [
         category: "red garnet",
         status: "available",
         dimensions: "7.5 x 6.5 x 5.0 (mm)",
-        weight: "undifined",
+        weight: "N/A",
         cut: "Cushion",
         Origin: "Malawi",
         image: "images/Collection/IMG-20250214-WA0012.jpg",
@@ -167,7 +167,7 @@ function displayGemstones(category) {
             <div class="gemstone-info">
                 <h3>${stone.name}</h3>
                 <p> Dimensions: ${stone.dimensions}</p>
-                <p>Weight: ${stone.weight} Grams</p>
+                <p>Weight: ${stone.weight ? stone.weight + ' Grams' : 'N/A'}</p>
                 <p> Cut: ${stone.cut}</p>
                 <p>Origin: ${stone.Origin}</p>
                 <p>${stone.description}</p>
