@@ -165,7 +165,7 @@ const gemstones = [
         status: "available",
         dimensions: "7.00 x 5.5 x 3.0 (mm)",
         weight: "N/A",
-        cut: "Cushion mixed cut",
+        cut: "Cushion",
         Origin: "Malawi",
         image: "images/Collection/new stones/3.webp",
         description: "Rounded corners with large facets"
@@ -201,7 +201,7 @@ const gemstones = [
         status: "available",
         dimensions: "7.00x6.00x4.00(mm)",
         weight: "N/A",
-        cut: "Rough (Natural)",
+        cut: "Cushion mixed Cut",
         Origin: "Malawi",
         image: "images/Collection/new stones/6.webp",
         description: "Premium Rhodolite cut gemstone"
