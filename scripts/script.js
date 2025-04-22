@@ -1,26 +1,11 @@
 // Sample gemstone data
 const gemstones = [
-    {
-        id: 1,
-        name: "Red Garnet",
-        category: "red garnet",
-        status: "available",
-        dimensions: "9.0. x 5 x 5.5 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
-        image: "images/Collection/Red Garnet 3.jpg",
-        description: "Beautiful red garnet with excellent clarity"
-    },
-    {
+    
+   /* {
         id: 2,
         name: "Rutile Amethyst",
         category: "rutile amethyst",
         status: "available",
-        dimensions: "24.00 x 9.00 (mm)",
-        weight: "4.1",
-        cut: "Rough (Natural)",
-        Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/Rutile Amethyst 2.jpg",
         description: "Stunning Rutile Amethyst"
     },
@@ -29,10 +14,6 @@ const gemstones = [
         name: "Rutile Amethyst",
         category: "rutile amethyst",
         status: "available",
-        dimensions: "29.90 x 21.90 (mm)",
-        weight: "8.32",
-        cut: "Rough (Natural)",
-        Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/Rutile Amethyst 4.jpg",
         description: "Premium Rutile Amethyst"
     },
@@ -40,59 +21,23 @@ const gemstones = [
         id: 4,
         name: "Rutile Amethyst",
         category: "rutile amethyst",
-        status: "Available",
-        dimensions: "25.50 x 12.00 (mm)",
-        weight: "26.48",
-        cut: "Rough (Natural)",
-        Origin: "Kafukule, Mzimba, Malawi",
+        status: "available",
         image: "images/Collection/Rutile Amethyst.jpg",
         description: "Brilliant Rutile Amethyst with exceptional clarity"
-    },
-    {
-        id: 5,
-        name: "Red Garnet",
-        category: "red garnet",
-        status: "available",
-        dimensions: "10.50 x 10.50 x 6.50(mm)",
-        weight: "N/A",
-        cut: "Hexagonal",
-        Origin: "Nanthenje,Malawi",
-        image: "images/Collection/Stunning Red Garnet.jpg",
-        description: "Exquisite Red Garnet"
     },
     {
         id: 6,
         name: "Rutile Amethyst",
         category: "rutile amethyst",
         status: "available",
-        dimensions: "41.00 x 20.00 (mm)",
-        weight: "28.45",
-        cut: "Rough (Natural)",
-        Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/Rutile Amethyst 3.jpg",
         description: "Stunning Rutile Amethyst"
-    },
-    {
-        id: 7,
-        name: "Red Garnet",
-        category: "red garnet",
-        status: "available",
-        dimensions: "11.00 x 11.00 X 6.00 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Nanthenje, Malawi",
-        image: "images/Collection/Stunning Red Garnet 2.jpg",
-        description: "Exquisite Red Garnet"
     },
     {
         id: 8,
         name: "Rutile Amethyst",
         category: "rutile amethyst",
         status: "available",
-        dimensions: "29.00 x 8.50 (mm)",
-        weight: "5.94",
-        cut: "Rough (Natural)",
-        Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/rutile.jpg",
         description: "Brilliant gemstone with exceptional clarity"
     },
@@ -101,37 +46,17 @@ const gemstones = [
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "9.5 x 5.5 X 4.0 (mm)",
-        weight: "N/A",
-        cut: "Rectangular",
-        Origin: "Malawi",
         image: "images/Collection/Rhodolite.jpg",
         description: "Stunning Pink Purplish Rhodolite"
-    },
-    {
-        id: 10,
-        name: "Red Garnet",
-        category: "red garnet",
-        status: "available",
-        dimensions: "7.5 x 6.5 x 5.0 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
-        image: "images/Collection/IMG-20250214-WA0012.jpg",
-        description: "Stunning Red Garnet"
     },
     {
         id: 11,
         name: "Rutile Amethyst",
         category: "rutile amethyst",
         status: "available",
-        dimensions: "21.50 x 9.50 (mm)",
-        weight: "5.30",
-        cut: "Rough (Natural)",
-        Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/rutile new.jpg",
         description: "Premium Rutile Amethyst cut gemstone"
-    },
+    }, */
 
     // new collection(Rhodolite)
     {
@@ -139,480 +64,320 @@ const gemstones = [
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00 x 6.00 x 3.00(mm)",
-        weight: "N/A",
-        cut: "Tear Drop",
-        Origin: "Malawi",
         image: "images/Collection/new stones/1.webp",
-        description: "Stunning purplish Rhodolite"
+        description: "Discover the allure of this exquisite teardrop Rhodolite gemstone, perfect for adding a touch of elegance to any jewelry piece. Its rich color and unique shape make it a standout choice for custom designs or as a stunning centerpiece in any of your jewelry collection. Dimensions: 8.00x6.00x3.00 (mm) Shape: Tear Drop Color: Purplish Cutter: Tawoma Carats: 1.6"
     },
     {
         id: 13,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "9.00 x 5.00 x 2.50 (mm)",
-        weight: "N/A",
-        cut: "Kite",
-        Origin: "Malawi",
         image: "images/Collection/new stones/2.webp",
-        description: "Purplish Rhodolite"
+        description: "his exquisite purplish gemstone captures the eye with its vibrant hue and unique cut. Perfect for adding a touch of elegance to any jewelry piece, it embodies luxury and sophistication. Whether set in a ring or pendant, this gem is sure to make a statement. Dimensions:9.00x5.00x2.50(mm) Shape: Kite Color:Purplish Carat:1.12 "
     },
     {
         id: 14,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.00 x 5.5 x 3.0 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/3.webp",
-        description: "Rounded corners with large facets"
+        description: "The item is a loose gemstone identified as a RhodoliteThe gemstone exhibits a cushion cut, characterized by its rounded corners and larger facets, which enhance its brilliance. The color is classified as red (r), displaying a vivid hue with strong saturation. Transparency is assessed as transparent, allowing light to pass through without obstruction. The clarity grade is not specified but appears to be free of significant inclusions visible to the naked eye. The polish is excellent, contributing to the overall luster of the gemstone. The symmetry is also excellent, indicating precise cutting and shaping. The composition is primarily Rhodolite with providing the red coloration. No additional materials or settings are present in the image. Dimensions: 07x5.5x3.0(mm). Shape: cushion mixed cut Color: Cutter: tawoma Carats: 0.78"
     },
     {
         id: 15,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00 x 6.50 x 4.00(mm)",
-        weight: "N/A",
-        cut: "Rectangular",
-        Origin: "Malawi",
         image: "images/Collection/new stones/4.webp",
-        description: "Exquisite Pink gemstone"
+        description: "This exquisite pink gemstone captures the eye with its vibrant hue and brilliant clarity. Perfect for adding a touch of elegance to any jewelry piece, it embodies luxury and sophistication. Whether set in a ring or pendant, this gem is sure to make a statement. Dimensions: 8.00x6.50x4.00(mm). Shape:Rectangular. Color: Purplish Cutter: tawoma Carats: 2.21"
     },
     {
         id: 16,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00 x 6.00 x 3.50 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/5.webp",
-        description: "Stunning Rhodolite"
+        description: "Dimensions: 8.00x6.00x 3.5(mm). Shape: Cushion. Color: Purplish Cutter: tawoma carats:2.25"
     },
     {
         id: 17,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.00x6.00x4.00(mm)",
-        weight: "N/A",
-        cut: "Cushion mixed Cut",
-        Origin: "Malawi",
         image: "images/Collection/new stones/6.webp",
-        description: "Premium Rhodolite cut gemstone"
+        description: "Dimensions: 7.00x6.00x4.00(mm). Shape: cushion mixed cut Color: Purplish Cutter: tawoma Carats: 2.42"
     },
     {
         id: 18,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00 x 6.00 x 3.50 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/7.webp",
-        description: "Stunning Rhodolite"
+        description: "Dimensions: 8.00x6.00x 3.5(mm). Shape: Color: Purplish Cutter: tawoma Carats:1.74"
     },
     {
         id: 19,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50 x 5.50 x 3.00 (mm)",
-        weight: "N/A",
-        cut: "Rough (Natural)",
-        Origin: "Malawi",
         image: "images/Collection/new stones/8.webp",
-        description: "Premium Rhodolite cut gemstone"
+        description: "This exquisite hexagonal Rhodolite gemstone radiates a deep, vibrant red hue, capturing the essence of luxury and elegance. Perfect for adding a touch of sophistication to any jewelry piece, this gemstone is a must-have for collectors and enthusiasts alike. Dimensions: 6.5x5.5x3.5(mm) Shape: Hexagonal Color: Purplish Cutter: tawoma Carats: 1.41"
     },
     {
         id: 20,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.50 x 6.50 x 4.00 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/9.webp",
-        description: "Stunning Rhodolite"
+        description: "This exquisite hexagonal purplish gemstone captures the eye with its vibrant hue and intricate facets. Perfect for adding a pop of color to any jewelry piece, it radiates elegance and charm. Ideal for collectors and jewelry makers alike, this gemstone is a true statement of luxury. Dimensions: 7.5x6.5x4.0(mm) Shape: Hexagonal cut Color: Purplish Cutter: tawoma Carats: 1.85  "
     },
     {
         id: 21,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.5x4.0x1.5(mm)",
-        weight: "N/A",
-        cut: "Hexagonal",
-        Origin: "Malawi",
         image: "images/Collection/new stones/10.webp",
-        description: "Premium Rhodolite cut gemstone"
+        description: "This exquisite purplish Rhodolite gemstone captures the eye with its vibrant hue and unique hexagonal shape. Perfect for adding a touch of elegance to any jewelry piece, it embodies both beauty and sophistication. Whether set in a ring or pendant, this gemstone is sure to make a statement. Dimensions: 6.5x4.0x1.5(mm) Shape: Hexagonal cut. Color: Purplish Cutter: tawoma Carats: 0.90 "
     },
     {
         id: 22,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "4.0 x 3.5 x 2.5 (mm)",
-        weight: "N/A",
-        cut: "Kite",
-        Origin: "Malawi",
         image: "images/Collection/new stones/11.webp",
-        description: "Stunning Kite cut Rhodolite"
+        description: "This exquisite purplish gemstone captures the eye with its vibrant hue and unique cut. Perfect for adding a touch of elegance to any jewelry piece, it radiates charm and sophistication. Ideal for collectors or those looking to create a one-of-a-kind accessory. Dimensions:4.0xx3.5x2.5(mm) Shape: kite Color: Purplish Cutter: tawoma Carats: 0.76"
     },
     {
         id: 23,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00 x 5.50 x 3.50 (mm)",
-        weight: "N/A",
-        cut: "Rough (Natural)",
-        Origin: "Malawi",
         image: "images/Collection/new stones/12.webp",
-        description: "Premium Rhodolite cut gemstone"
+        description: "Dimensions: 8.00x5.5x3.5(mm) Shape: Color:Purplish Cutter: tawoma Carats: 1.37"
     },
     {
         id: 24,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "5.5x5.5x3.5(mm)",
-        weight: "N/A",
-        cut: "Kite",
-        Origin: "Malawi",
         image: "images/Collection/new stones/13.webp",
-        description: "Stunning Kite cut Rhodolite"
+        description: "Dimensions: 5.5x5.5x3.5(mm) Shape: Kite Color: Purplish Cutter: tawoma Carats: 1.59"
     },
     {
         id: 25,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00x5.5x3.5(mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/14.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 8.00x5.5x3.5(mm) Shape: Oval Color: Purplish Cutter: tawoma. Carats: 1.06"
     },
     {
         id: 26,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.8x6.0x3.0(mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/15.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 8.8x6.0x3.0(mm). Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.93"
     },
     {
         id: 27,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "9.00x6.00x4.00 (mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/16.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 9.00x6.00x4.00 Shape: Oval Color: Purplish Cutter: tawoma Carats: 2.19"
     },
     {
         id: 28,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.5x6.5x3.5 (mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/17.webp",
-        description: "Stunning Purplish Oval cut Rhodolite"
+        description: "Dimensions: 7.5x6.5x3.5(mm) Shape: Oval Color: Purplish. Cutter Tawoma Carats: 1.98"
     },
     {
         id: 29,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.50x6.00x4.00(mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/18.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 8.50x6.00x4.00(mm) Shape:Oval Color: Purplish Cutter: Tawoma Carat: 1.98"
     },
     {
         id: 30,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00x6.00x3.5 (mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/19.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 8.00x6.00x3.5(mm). Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.83"
     },
     {
         id: 31,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.00x5.55x3.5(mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/20.webp",
-        description: "Stunning Cushion cut Rhodolite"
+        description: "Dimensions: 7.00x5.55x3.5(mm) Shape: Cushion Cut Color: Purplish Cutter: Tawoma Carats: 1.73"
     },
     {
         id: 32,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50x5.50x3.00 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/21.webp",
-        description: "Stunning Cushion cut Rhodolite"
+        description: "Dimensions: 6.50x5.50x3.00(mm) Shape: Cushion Cut Color: Purplish Cutter: tawoma Carats : 1.47"
     },
     {
         id: 33,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50x6.50x3.50(mm)",
-        weight: "N/A",
-        cut: "Round",
-        Origin: "Malawi",
         image: "images/Collection/new stones/22.webp",
-        description: "Stunning Round cut Rhodolite"
+        description: "Dimensions: 8.00x5.50x3.50(mm). Shape: Cushion Cut Color: Purplish Cutter: tawoma Carats: 2.10"
     },
     {
         id: 34,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "5.50x5.50x3.50 (mm)",
-        weight: "N/A",
-        cut: "Round",
-        Origin: "Malawi",
         image: "images/Collection/new stones/23.webp",
-        description: "Stunning Round cut Rhodolite"
+        description: "Dimensions: 6.50x6.50x3.50(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.72"
     },
     {
         id: 35,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50x6.50x4.00 (mm)",
-        weight: "N/A",
-        cut: "Round",
-        Origin: "Malawi",
         image: "images/Collection/new stones/24.webp",
-        description: "Stunning Round cut Rhodolite"
+        description: "Dimensions: 5.50x5.50x3.50(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.18"
     },
     {
         id: 36,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.00x6.00x3.50 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/25.webp",
-        description: "Stunning Cushion cut Rhodolite"
+        description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.51"
     },
     {
         id: 37,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50x6.50x4.00 (mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Kafukule, Mzimba, Malawi",
         image: "images/Collection/new stones/26.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 7.00x7.00x4.00(mm) Shape: Round Color: Purplish Cutter:tawoma Carats: 1.79"
     },
     {
         id: 38,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.00x5.50x3.00(mm)",
-        weight: "N/A",
-        cut: "Square",
-        Origin: "Malawi",
         image: "images/Collection/new stones/27.webp",
-        description: "Stunning Square cut Rhodolite"
+        description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.46"
     },
     {
         id: 39,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.00x7.00x4.00(mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/28.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions : 6.00x6.00x3.50(mm) Shape: Square Color: Purplish Cutter: tawoma Carats:1.53"
     },
     {
         id: 40,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.00x7.00x4.00 (mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/29.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.56"
     },
     {
         id: 41,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50x6.50x3.50(mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/30.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 6.00x5.50x3.00(mm) Shape: Cushion Cut Color: Purplish Cutter: tawoma Carats: 1.53"
     },
     {
         id: 42,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50x6.00x3.00(mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/31.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 7.00x7.00x4.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 2.10"
     },
     {
         id: 43,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "6.50x6.50x4.00(mm)",
-        weight: "N/A",
-        cut: "Round",
-        Origin: "Malawi",
         image: "images/Collection/new stones/32.webp",
-        description: "Stunning Round cut Rhodolite"
+        description: "Dimensions: 7.00x7.00x4.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.83"
     },
     {
         id: 44,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.5 x 6.5 x 5.0 (mm)",
-        weight: "N/A",
-        cut: "Round",
-        Origin: "Malawi",
         image: "images/Collection/new stones/33.webp",
-        description: "Stunning Round cut Rhodolite"
+        description: "Dimensions: 6.50x6.50x3.50(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats:1.40. Remarks: Inclusions, air bubbles and dust particles trapped"
     },
     {
         id: 45,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.00x6.00x3.50 (mm)",
-        weight: "N/A",
-        cut: "Oval",
-        Origin: "Malawi",
         image: "images/Collection/new stones/34.webp",
-        description: "Stunning Oval cut Rhodolite"
+        description: "Dimensions: 6.50x6.00x3.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats:1.37"
     },
     {
         id: 46,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "5.50x4.00x3.00(mm)",
-        weight: "N/A",
-        cut: "Rectangular",
-        Origin: "Malawi",
         image: "images/Collection/new stones/35.webp",
-        description: "Stunning Rectangular cut Rhodolite"
+        description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.69"
     },
     {
         id: 47,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "21.50 x 9.50 (mm)",
-        weight: "N/A",
-        cut: "Rough (Natural)",
-        Origin: "Malawi",
         image: "images/Collection/new stones/36.webp",
-        description: "Premium Rhodolite cut gemstone"
+        description: "Dimensions: 8.00x6.00x3.50(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.63"
     },
     {
         id: 48,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "5.5x4.0x3.0(mm)",
-        weight: "N/A",
-        cut: "Rectangular",
-        Origin: "Malawi",
         image: "images/Collection/new stones/37.webp",
-        description: "Stunning Rectangular cut Rhodolite"
+        description: "Dimensions: 5.50x4.00x3.00(mm) Shape: Rectangular Color: Purplish Cutter: tawoma Carats: 0.77"
     },
     {
         id: 49,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "5.5 x 4.0 x 3.0 (mm)",
-        weight: "N/A",
-        cut: "Rectangular",
-        Origin: "Malawi",
         image: "images/Collection/new stones/38.webp",
-        description: "Rectangular Cut Rhodolite gemstone"
+        description: "The item is a loose gemstone, specifically a rectangular-cut Rhodolite.The gemstone exhibits a deep reddish hue, characteristic of high-quality Rhodolite. It displays transparency with minimal inclusions, contributing to its clarity. The cutting style is emerald cut, which enhances the stone's brilliance and depth. The polish is excellent, providing a smooth surface that reflects light effectively. The symmetry of the cut is also excellent, ensuring uniformity in the facets. Overall, this gemstone is suitable for high-end jewelry applications due to its quality and aesthetic appeal. Dimensions: 5.5x4.0x3.0(mm). Cut: rectangular Cutter: tawoma. Carat: 0.78"
     },
     {
         id: 50,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "7.00 x 6.50 x 4.00 (mm)",
-        weight: "N/A",
-        cut: "Cushion",
-        Origin: "Malawi",
         image: "images/Collection/new stones/39.webp",
-        description: "Stunning Purplish Rhodolite"
+        description: "Dimensions: 7.00x6.50x4:00(mm) Shape: Color: Purplish Cutter: tawoma Carats: 2.18"
     },
     {
         id: 51,
         name: "Rhodolite",
         category: "rhodolite",
         status: "available",
-        dimensions: "8.50x6.00 x 3.50(mm)",
-        weight: "N/A",
-        cut: "Rough (Natural)",
-        Origin: "Malawi",
         image: "images/Collection/new stones/40.webp",
-        description: "Red Purplish Rhodolite"
+        description: "Dimensions: 8.50x6.00x3.50(mm) Shape: Color: Red Purplish Cutter: tawoma Carats: 1.71"
     },
     
 ]
@@ -648,16 +413,47 @@ function displayGemstones(category) {
             <img src="${stone.image}" alt="${stone.name}">
             <div class="gemstone-info">
                 <h3>${stone.name}</h3>
-                <p> Dimensions: ${stone.dimensions}</p>
-                <p>Weight: ${stone.weight ? stone.weight + ' Grams' : 'N/A'}</p>
-                <p> Cut: ${stone.cut}</p>
-                <p>Origin: ${stone.Origin}</p>
-                <p>${stone.description}</p>
+                <p>
+                <span class="desc-short">${stone.description.substring(0, 100)}...</span>
+                <span class="desc-full" style="display: none;">${stone.description}</span>
+                <button class="toggle-btn" data-fulltext="${stone.description.replace(/"/g, '&quot;')}">Read More</button>
+
+                </p>
+
                 <p class="status">Status: ${stone.status}</p>
                 <button class="inquiry-btn" data-id="${stone.id}">Inquire Now</button>
             </div>
         </div>
     `).join('');
+
+    // Add event listeners to toggle buttons
+    
+    const toggleButtons = document.querySelectorAll(".toggle-btn");
+
+    toggleButtons.forEach(button => {
+        button.addEventListener("click", function () {
+            const paragraph = this.parentElement;
+            const shortDesc = paragraph.querySelector(".desc-short");
+            const fullDesc = paragraph.querySelector(".desc-full");
+
+        const isCollapsed = shortDesc.style.display !== "none";
+
+        if (isCollapsed) {
+            shortDesc.style.display = "none";
+            fullDesc.style.display = "inline";
+            this.textContent = "Read Less";
+        } else {
+            shortDesc.style.display = "inline";
+            fullDesc.style.display = "none";
+            this.textContent = "Read More";
+        }
+    });
+    
+    });
+    
+        
+    
+    
 
     // Add event listeners to inquiry buttons
     document.querySelectorAll('.inquiry-btn').forEach(btn => {
