@@ -63,7 +63,7 @@ const gemstones = [
         id: 12,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 67.6",
         image: "images/Collection/new stones/1.webp",
         description: "Discover the allure of this exquisite teardrop Rhodolite gemstone, perfect for adding a touch of elegance to any jewelry piece. Its rich color and unique shape make it a standout choice for custom designs or as a stunning centerpiece in any of your jewelry collection. Dimensions: 8.00x6.00x3.00 (mm) Shape: Tear Drop Color: Purplish Cutter: Tawoma Carats: 1.6"
     },
@@ -71,7 +71,7 @@ const gemstones = [
         id: 13,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 44.8",
         image: "images/Collection/new stones/2.webp",
         description: "This exquisite purplish gemstone captures the eye with its vibrant hue and unique cut. Perfect for adding a touch of elegance to any jewelry piece, it embodies luxury and sophistication. Whether set in a ring or pendant, this gem is sure to make a statement. Dimensions:9.00x5.00x2.50(mm) Shape: Kite Color:Purplish Carat:1.12 "
     },
@@ -79,7 +79,7 @@ const gemstones = [
         id: 14,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 67.7",
         image: "images/Collection/new stones/3.webp",
         description: "The item is a loose gemstone identified as a RhodoliteThe gemstone exhibits a cushion cut, characterized by its rounded corners and larger facets, which enhance its brilliance. The color is classified as red (r), displaying a vivid hue with strong saturation. Transparency is assessed as transparent, allowing light to pass through without obstruction. The clarity grade is not specified but appears to be free of significant inclusions visible to the naked eye. The polish is excellent, contributing to the overall luster of the gemstone. The symmetry is also excellent, indicating precise cutting and shaping. The composition is primarily Rhodolite with providing the red coloration. No additional materials or settings are present in the image. Dimensions: 07x5.5x3.0(mm). Shape: cushion mixed cut Color: Cutter: tawoma Carats: 0.78"
     },
@@ -87,7 +87,7 @@ const gemstones = [
         id: 15,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 88.4",
         image: "images/Collection/new stones/4.webp",
         description: "This exquisite pink gemstone captures the eye with its vibrant hue and brilliant clarity. Perfect for adding a touch of elegance to any jewelry piece, it embodies luxury and sophistication. Whether set in a ring or pendant, this gem is sure to make a statement. Dimensions: 8.00x6.50x4.00(mm). Shape:Rectangular. Color: Purplish Cutter: tawoma Carats: 2.21"
     },
@@ -95,7 +95,7 @@ const gemstones = [
         id: 16,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 90",
         image: "images/Collection/new stones/5.webp",
         description: "Dimensions: 8.00x6.00x 3.5(mm). Shape: Cushion. Color: Purplish Cutter: tawoma carats:2.25"
     },
@@ -103,7 +103,7 @@ const gemstones = [
         id: 17,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 96.8",
         image: "images/Collection/new stones/6.webp",
         description: "Dimensions: 7.00x6.00x4.00(mm). Shape: cushion mixed cut Color: Purplish Cutter: tawoma Carats: 2.42"
     },
@@ -111,7 +111,7 @@ const gemstones = [
         id: 18,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 69.6",
         image: "images/Collection/new stones/7.webp",
         description: "Dimensions: 8.00x6.00x 3.5(mm). Shape: Color: Purplish Cutter: tawoma Carats:1.74"
     },
@@ -119,7 +119,7 @@ const gemstones = [
         id: 19,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 56.4",
         image: "images/Collection/new stones/8.webp",
         description: "This exquisite hexagonal Rhodolite gemstone radiates a deep, vibrant red hue, capturing the essence of luxury and elegance. Perfect for adding a touch of sophistication to any jewelry piece, this gemstone is a must-have for collectors and enthusiasts alike. Dimensions: 6.5x5.5x3.5(mm) Shape: Hexagonal Color: Purplish Cutter: tawoma Carats: 1.41"
     },
@@ -127,7 +127,7 @@ const gemstones = [
         id: 20,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 74",
         image: "images/Collection/new stones/9.webp",
         description: "This exquisite hexagonal purplish gemstone captures the eye with its vibrant hue and intricate facets. Perfect for adding a pop of color to any jewelry piece, it radiates elegance and charm. Ideal for collectors and jewelry makers alike, this gemstone is a true statement of luxury. Dimensions: 7.5x6.5x4.0(mm) Shape: Hexagonal cut Color: Purplish Cutter: tawoma Carats: 1.85  "
     },
@@ -135,7 +135,7 @@ const gemstones = [
         id: 21,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 36",
         image: "images/Collection/new stones/10.webp",
         description: "This exquisite purplish Rhodolite gemstone captures the eye with its vibrant hue and unique hexagonal shape. Perfect for adding a touch of elegance to any jewelry piece, it embodies both beauty and sophistication. Whether set in a ring or pendant, this gemstone is sure to make a statement. Dimensions: 6.5x4.0x1.5(mm) Shape: Hexagonal cut. Color: Purplish Cutter: tawoma Carats: 0.90 "
     },
@@ -143,7 +143,7 @@ const gemstones = [
         id: 22,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 30.4",
         image: "images/Collection/new stones/11.webp",
         description: "This exquisite purplish gemstone captures the eye with its vibrant hue and unique cut. Perfect for adding a touch of elegance to any jewelry piece, it radiates charm and sophistication. Ideal for collectors or those looking to create a one-of-a-kind accessory. Dimensions:4.0xx3.5x2.5(mm) Shape: kite Color: Purplish Cutter: tawoma Carats: 0.76"
     },
@@ -151,7 +151,7 @@ const gemstones = [
         id: 23,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 67.6",
         image: "images/Collection/new stones/12.webp",
         description: "Dimensions: 8.00x5.5x3.5(mm) Shape: Color:Purplish Cutter: tawoma Carats: 1.37"
     },
@@ -159,7 +159,7 @@ const gemstones = [
         id: 24,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 54.8",
         image: "images/Collection/new stones/13.webp",
         description: "Dimensions: 5.5x5.5x3.5(mm) Shape: Kite Color: Purplish Cutter: tawoma Carats: 1.59"
     },
@@ -167,7 +167,7 @@ const gemstones = [
         id: 25,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 63.6",
         image: "images/Collection/new stones/14.webp",
         description: "Dimensions: 8.00x5.5x3.5(mm) Shape: Oval Color: Purplish Cutter: tawoma. Carats: 1.06"
     },
@@ -175,7 +175,7 @@ const gemstones = [
         id: 26,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 42.4",
         image: "images/Collection/new stones/15.webp",
         description: "Dimensions: 8.8x6.0x3.0(mm). Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.93"
     },
@@ -183,7 +183,7 @@ const gemstones = [
         id: 27,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 77.2",
         image: "images/Collection/new stones/16.webp",
         description: "Dimensions: 9.00x6.00x4.00 Shape: Oval Color: Purplish Cutter: tawoma Carats: 2.19"
     },
@@ -191,7 +191,7 @@ const gemstones = [
         id: 28,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 87.6",
         image: "images/Collection/new stones/17.webp",
         description: "Dimensions: 7.5x6.5x3.5(mm) Shape: Oval Color: Purplish. Cutter Tawoma Carats: 1.98"
     },
@@ -199,7 +199,7 @@ const gemstones = [
         id: 29,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 79.2",
         image: "images/Collection/new stones/18.webp",
         description: "Dimensions: 8.50x6.00x4.00(mm) Shape:Oval Color: Purplish Cutter: Tawoma Carat: 1.98"
     },
@@ -207,7 +207,7 @@ const gemstones = [
         id: 30,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 73.2",
         image: "images/Collection/new stones/19.webp",
         description: "Dimensions: 8.00x6.00x3.5(mm). Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.83"
     },
@@ -215,7 +215,7 @@ const gemstones = [
         id: 31,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 69.2",
         image: "images/Collection/new stones/20.webp",
         description: "Dimensions: 7.00x5.55x3.5(mm) Shape: Cushion Cut Color: Purplish Cutter: Tawoma Carats: 1.73"
     },
@@ -223,7 +223,7 @@ const gemstones = [
         id: 32,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 58.8",
         image: "images/Collection/new stones/21.webp",
         description: "Dimensions: 6.50x5.50x3.00(mm) Shape: Cushion Cut Color: Purplish Cutter: tawoma Carats : 1.47"
     },
@@ -231,7 +231,7 @@ const gemstones = [
         id: 33,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 84",
         image: "images/Collection/new stones/22.webp",
         description: "Dimensions: 8.00x5.50x3.50(mm). Shape: Cushion Cut Color: Purplish Cutter: tawoma Carats: 2.10"
     },
@@ -239,7 +239,7 @@ const gemstones = [
         id: 34,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 68.88",
         image: "images/Collection/new stones/23.webp",
         description: "Dimensions: 6.50x6.50x3.50(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.72"
     },
@@ -247,7 +247,7 @@ const gemstones = [
         id: 35,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 47.2",
         image: "images/Collection/new stones/24.webp",
         description: "Dimensions: 5.50x5.50x3.50(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.18"
     },
@@ -255,7 +255,7 @@ const gemstones = [
         id: 36,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 60.4",
         image: "images/Collection/new stones/25.webp",
         description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.51"
     },
@@ -263,7 +263,7 @@ const gemstones = [
         id: 37,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 71.6",
         image: "images/Collection/new stones/26.webp",
         description: "Dimensions: 7.00x7.00x4.00(mm) Shape: Round Color: Purplish Cutter:tawoma Carats: 1.79"
     },
@@ -271,7 +271,7 @@ const gemstones = [
         id: 38,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 58.4",
         image: "images/Collection/new stones/27.webp",
         description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.46"
     },
@@ -279,7 +279,7 @@ const gemstones = [
         id: 39,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 61.2",
         image: "images/Collection/new stones/28.webp",
         description: "Dimensions : 6.00x6.00x3.50(mm) Shape: Square Color: Purplish Cutter: tawoma Carats:1.53"
     },
@@ -287,7 +287,7 @@ const gemstones = [
         id: 40,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 62.4",
         image: "images/Collection/new stones/29.webp",
         description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.56"
     },
@@ -295,7 +295,7 @@ const gemstones = [
         id: 41,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 61.2",
         image: "images/Collection/new stones/30.webp",
         description: "Dimensions: 6.00x5.50x3.00(mm) Shape: Cushion Cut Color: Purplish Cutter: tawoma Carats: 1.53"
     },
@@ -303,7 +303,7 @@ const gemstones = [
         id: 42,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 84",
         image: "images/Collection/new stones/31.webp",
         description: "Dimensions: 7.00x7.00x4.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 2.10"
     },
@@ -311,7 +311,7 @@ const gemstones = [
         id: 43,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 73.2",
         image: "images/Collection/new stones/32.webp",
         description: "Dimensions: 7.00x7.00x4.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.83"
     },
@@ -319,7 +319,7 @@ const gemstones = [
         id: 44,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 56",
         image: "images/Collection/new stones/33.webp",
         description: "Dimensions: 6.50x6.50x3.50(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats:1.40. Remarks: Inclusions, air bubbles and dust particles trapped"
     },
@@ -327,7 +327,7 @@ const gemstones = [
         id: 45,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 54.8",
         image: "images/Collection/new stones/34.webp",
         description: "Dimensions: 6.50x6.00x3.00(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats:1.37"
     },
@@ -335,7 +335,7 @@ const gemstones = [
         id: 46,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 67.6",
         image: "images/Collection/new stones/35.webp",
         description: "Dimensions: 6.50x6.50x4.00(mm) Shape: Round Color: Purplish Cutter: tawoma Carats: 1.69"
     },
@@ -343,7 +343,7 @@ const gemstones = [
         id: 47,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 65.2",
         image: "images/Collection/new stones/36.webp",
         description: "Dimensions: 8.00x6.00x3.50(mm) Shape: Oval Color: Purplish Cutter: tawoma Carats: 1.63"
     },
@@ -351,7 +351,7 @@ const gemstones = [
         id: 48,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 30",
         image: "images/Collection/new stones/37.webp",
         description: "Dimensions: 5.50x4.00x3.00(mm) Shape: Rectangular Color: Purplish Cutter: tawoma Carats: 0.77"
     },
@@ -359,7 +359,7 @@ const gemstones = [
         id: 49,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 36",
         image: "images/Collection/new stones/38.webp",
         description: "The item is a loose gemstone, specifically a rectangular-cut Rhodolite.The gemstone exhibits a deep reddish hue, characteristic of high-quality Rhodolite. It displays transparency with minimal inclusions, contributing to its clarity. The cutting style is emerald cut, which enhances the stone's brilliance and depth. The polish is excellent, providing a smooth surface that reflects light effectively. The symmetry of the cut is also excellent, ensuring uniformity in the facets. Overall, this gemstone is suitable for high-end jewelry applications due to its quality and aesthetic appeal. Dimensions: 5.5x4.0x3.0(mm). Cut: rectangular Cutter: tawoma. Carat: 0.78"
     },
@@ -367,7 +367,7 @@ const gemstones = [
         id: 50,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 87.2",
         image: "images/Collection/new stones/39.webp",
         description: "Dimensions: 7.00x6.50x4:00(mm) Shape: Color: Purplish Cutter: tawoma Carats: 2.18"
     },
@@ -375,7 +375,7 @@ const gemstones = [
         id: 51,
         name: "Rhodolite",
         category: "rhodolite",
-        status: "available",
+        Price: "$USD 68.4",
         image: "images/Collection/new stones/40.webp",
         description: "Dimensions: 8.50x6.00x3.50(mm) Shape: Color: Red Purplish Cutter: tawoma Carats: 1.71"
     },
@@ -420,7 +420,7 @@ function displayGemstones(category) {
 
                 </p>
 
-                <p class="status">Status: ${stone.status}</p>
+                <p class="Price">Price: ${stone.Price}</p>
                 <button class="inquiry-btn" data-id="${stone.id}">Inquire Now</button>
             </div>
         </div>
@@ -486,7 +486,7 @@ function scrollToContact(stone) {
     // Pre-fill message with gemstone inquiry
     const messageField = document.getElementById('message');
     if (messageField) {
-        messageField.value = `I am interested in the ${stone.name} which states that it is ${stone.status}. Please provide more information.`;
+        messageField.value = `I am interested in the ${stone.name} which is Valued at ${stone.Price}. Please provide more information.`;
     }
 }
 

@@ -397,10 +397,11 @@ body {
     line-height: 1.6;
 }
 
-.gemstone-info .status {
-    color: #181717;
+.gemstone-info .Price {
+    color: #1e1b1b;
     font-weight: 600;
     margin: 0.5rem 0;
+    font-size: 14px;
 }
 
 .inquiry-btn {
