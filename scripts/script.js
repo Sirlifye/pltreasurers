@@ -420,7 +420,7 @@ function displayGemstones(category) {
 
                 </p>
 
-                <p class="Price">Price: ${stone.Price}</p>
+                <p class="Price">${stone.Price}</p>
                 <button class="inquiry-btn" data-id="${stone.id}">Inquire Now</button>
             </div>
         </div>
