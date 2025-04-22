@@ -73,7 +73,7 @@ const gemstones = [
         category: "rhodolite",
         status: "available",
         image: "images/Collection/new stones/2.webp",
-        description: "his exquisite purplish gemstone captures the eye with its vibrant hue and unique cut. Perfect for adding a touch of elegance to any jewelry piece, it embodies luxury and sophistication. Whether set in a ring or pendant, this gem is sure to make a statement. Dimensions:9.00x5.00x2.50(mm) Shape: Kite Color:Purplish Carat:1.12 "
+        description: "This exquisite purplish gemstone captures the eye with its vibrant hue and unique cut. Perfect for adding a touch of elegance to any jewelry piece, it embodies luxury and sophistication. Whether set in a ring or pendant, this gem is sure to make a statement. Dimensions:9.00x5.00x2.50(mm) Shape: Kite Color:Purplish Carat:1.12 "
     },
     {
         id: 14,
