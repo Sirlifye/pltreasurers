@@ -1,2 +1,4 @@
 User-agent: *
-Allowed: /
+Allow: /
+
+Sitemap: https://pltreasurers.com/sitemap.xml
